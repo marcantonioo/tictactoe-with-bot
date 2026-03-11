@@ -11,8 +11,8 @@ private:
     public:
     Tabuleiro();
     int getPosicao(int i, int j);
-    bool realizarJogada(int i, int j, int valor);
     bool verificarVitoria(int valor);
+    bool verificarEmpate(int time);
 
     friend class unit_Tabuleiro;
 };
