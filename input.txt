@@ -1,0 +1,7 @@
+10 10 2 2 15 10
+Testes de inicialização do tabuleiro passaram!
+Testes de setPosicao do tabuleiro passaram!
+Testes de verificar vitoria passaram!
+Testes de verificar empate passaram!
+
+Jogador 1escreva a coluna e a linha da sua jogada Testes realizarJogada passaram!

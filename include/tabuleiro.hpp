@@ -6,10 +6,10 @@ class Tabuleiro {
 private:
     int posicao[3][3];
     void setGame();
-    void setPosicao(int i, int j, int valor);
 
     public:
     Tabuleiro();
+    void setPosicao(int i, int j, int valor);
     int getPosicao(int i, int j);
     bool verificarVitoria(int valor);
     bool verificarEmpate(int time);

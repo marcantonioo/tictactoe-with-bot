@@ -1,5 +1,4 @@
 #include <cassert>
-#include <iostream>
 #include "unit-Tabuleiro.hpp"
 #include "../../include/tabuleiro.hpp"
 void unit_Tabuleiro::test_tabuleiro_initial(){
